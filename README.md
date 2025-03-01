@@ -1,4 +1,4 @@
-# Screening-of-Neutrophil-Migration-Blockers
+# Screening-of-Neutrophil-Activation-Blockers-Post-Exercise
 
 # Goal
-Identify compounds that could reduce neutrophil migration in inflammation, using AI to screen and rank them—perfect for a resume bullet and interview flex.
+Use AI to screen compounds that could dampen neutrophil activation in response to exercise-induced inflammation, targeting drug discovery for conditions like muscle damage or overtraining syndromes.
